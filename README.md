@@ -6,14 +6,26 @@ C programming practice - Algorithms, data structures, lab assignments, and probl
 ## 📁 Repository Structure
 
 ```
-c-practice/
-├── Arrays/           # Array operations and problems
-├── Pointers/         # Pointer concepts and programs
-├── Strings/          # String manipulation
-├── Functions/        # Function concepts
-├── DataStructures/   # Linked Lists, Stacks, Queues, Trees
-├── Algorithms/       # Sorting, Searching, etc.
-└── Labs/             # College lab assignments
+📂 c-practice/
+├── Algorithms/
+├── Arrays/
+├── DataStructures/
+├── Labs/
+├── Pointers/
+├── Strings/
+├── Functions/
+│   ├── Recursion/
+│   ├── StringFunctions/
+│   ├── ArrayFunctions/
+│   ├── MathFunctions/
+│   ├── NumberSystems/
+│   ├── AdvancedFunctionConcepts/
+│   ├── ScopeAndStorage/
+│   ├── Callbacks/
+│   ├── MemoryManagement/
+│   ├── LibraryFunctions/
+│   └── ExpertLevel/
+└── README.md
 ```
 
 ## 🎯 About This Repository
